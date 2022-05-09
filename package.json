@@ -1,0 +1,16 @@
+{
+  "name": "discordmembergrabber",
+  "version": "1.0.0",
+  "description": "A program to export all member names and ids to a file.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+},
+  "author": "Dkal",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.7"
+  }
+}
