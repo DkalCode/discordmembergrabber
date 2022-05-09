@@ -5,6 +5,7 @@
 - [About](#about)
 - [Installation](#installation)
 - [Configuration](#configuration)
+- [Dependencies](#dependencies)
 - [Credits](#credits)
 
 ## About
@@ -33,6 +34,14 @@ $ npm start
 property | type | description
 -- | -- | --
 `client.login("");` | token | put in your discord bot token here
+
+## Dependencies
+
+npm | version | install
+-- | -- | --
+`discord.js` | ^13.6.0 | npm i discord.js
+`fs` | ^0.0.1-security | npm i fs
+`node-fetch` | ^2.6.7 | npm i node-fetch
 
 ## Credits
 
